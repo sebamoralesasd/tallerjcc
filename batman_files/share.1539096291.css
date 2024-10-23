@@ -1,0 +1,48 @@
+#share-container{ background-color: #fff; margin: 5px 0 0 5px;}
+#share-container .user-data-container{ width: 490px;}
+
+#share-container .user-data-info{font-size: 12px; line-height: 18px; background-color: #fff; padding: 0px 3px 2px 0px;}
+#share-container #user-data-loc{ font-size: 10px; color: #555; margin-left: 5px;}
+#share-container #user-card-title{ margin-left: 3px;}
+#share-container #user-card-title a{text-decoration: none; color: #666; font-size: 16px; font-weight: bold; overflow-x: hidden; text-decoration: none; white-space: nowrap;}
+#share-container #user-card-title a:hover{ text-decoration: underline; color: #666; font-size: 16px;}
+
+#share-container .user-data-profile{ padding: 0px 3px 5px 0px; color: #666666;}
+#share-container .user-data-profile a{ font-size: 12px !important;}
+#share-container .user-data-profile a:visited, .user-data-profile a:link { text-decoration: none; font-size: 12px; color: #555; color: #888;}
+#share-container .user-data-profile a:hover{ font-size: 12px; color: #555; color: #888; text-decoration:underline;}
+
+#share-container #stars{ display: inline-block; background-color: #FFFFFF; border: 1px solid #E2E2E2; border-radius: 10px 10px 10px 10px; padding: 1px 5px; }
+#share-container .user-rating-container{ background-color: #999; margin-bottom: 10px;}
+#share-container .rating-container{ padding: 10px 5px 5px 5px; background: #D3E2F2 url('/images/gif/arrow_desc_user_white.png') no-repeat 50px 0px;}
+#share-container .rating-number{ background: none repeat scroll 0 0 #990000; border-radius: 2px; color: #FFFFFF; display: inline-block; font-size: 18px; font-weight: bold; margin: 0 0 0 8px; text-align: center; vertical-align: top; width: 30px;}
+#share-container .rating-text{ color: #333333; display: inline-block; font-size: 16px; padding: 2px; margin-left: 5px;}
+
+.share-link { color: #666666;}
+.share-link a{ text-decoration:none; cursor:pointer; color: #666666;}
+.share-link a:link, .share-link a:visited {  text-decoration: none;}
+.share-link a:hover{ text-decoration: none;}
+
+#share-title a{text-decoration: none; color: #555; font-size: 16px; font-weight: bold; text-decoration: none;}
+#share-title a:hover{ text-decoration: underline;}
+
+#share-title-small a{text-decoration: none; color: #555; font-size: 16px; text-decoration: none;}
+#share-title-small a:hover{ text-decoration: underline;}
+
+.share-links-2{ vertical-align: bottom; text-align: left; margin: 10px 10px 10px 5px;}
+.share-links-2 div{ display: inline-block; vertical-align: middle;}
+
+.share-links-2 #copy-to-clip{ vertical-align: top; padding-top: 2px;}
+.share-links-2 #copy-to-clip a{text-decoration: none; font-size: 11px; color: #333;}
+
+.review-title a{ text-decoration: none; font-size:14px; color: #333;}
+
+.rfavd a{text-decoration: none; color: #888;}
+.rfavd a:link, .rfavd a:visited{ text-decoration: none; color: #888;}
+.rfavd a:hover{ text-decoration: underline; color: #888;}
+
+.see-more-reviews-link {margin: 3px 0px; text-align: right;}
+.see-more-reviews-link a:link, .see-more-reviews-link a:visited{text-decoration: none; color: #888;}
+.see-more-reviews-link a:hover{text-decoration: underline; color: #888;}
+
+.clearfix{ clear: both;}

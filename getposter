@@ -1,0 +1,2 @@
+#!/bin/sh
+curl --head --silent https://i.redd.it/hvzpfiwzkea71.jpg

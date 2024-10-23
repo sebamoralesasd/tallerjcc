@@ -1,0 +1,33 @@
+When you get systems that are too complicated to understand, people
+respond with superstition. Thousands of years ago, people didn’t under-
+stand astronomy. So superstitions arose—like praying to appease the spirits
+thought to be responsible for an eclipse.
+Superstitions arise because people (and other animals) are naturally in-
+clined to interpret coincidence as causality. If someone handles a frog and
+then develops a wart, he will naturally assume that touching the frog caused
+the wart. Especially if he does not understand what causes warts. Since a
+person will tend to forget all the times he has touched frogs without getting
+warts, it’s easy to see how people came to believe that touching frogs caused
+warts. And since the human body is so complicated and not well under-
+stood, people have come to believe in a number of medical superstitions like
+homeopathy and faith healing.
+We understand automobiles. There are no homeopathic automobile repair
+shops, that try to repair your car by putting infinitesimal dilutions of rust
+in the gas tank. There are no automotive faith healers, who lay their hands
+on the hood and pray. People reserve such superstitions for things that they
+don’t understand very well, such as the human body.
+Today’s computer programs seem as complicated and mysterious to peo-
+ple as the human body. So they respond with superstitions. Just as a person
+might avoid frogs because he once got a wart after touching one, he might
+avoid a particular sequence of commands because he did it once and his com-
+puter crashed. He doesn’t expect to understand why touching a frog might
+cause a wart, or why that particular sequence of commands might cause his
+computer to crash. Superstitions arise because we don’t understand.
+If this trend continues, we may soon see homeopathic computer repair.
+Perhaps it will consist of adding a virus to a program, deleting the virus,
+and then running the program. You may soon be able to take your laptop
+to a faith healer, who will lay his hands on the keyboard and pray for the
+recovery of the operating system.
+Is this the future of computing? Or can we instead build on the idea
+that a computer program is a mathematical object that can be understood
+through logic?

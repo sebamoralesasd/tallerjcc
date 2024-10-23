@@ -1,0 +1,14 @@
+#cboxPrevious{display: none !important; }
+#cboxNext{display: none !important;}
+
+
+#cboxPrevious2{position: absolute; width: 60px; height: 100%; display: block; opacity: 0; left: 0px; background-color: transparent; opacity: .2;}
+#cboxPrevious2:hover{ opacity: 1; }
+
+#cboxNext2{position: absolute; width: 60px; height: 100%; display: block; opacity: 0; right: 0px; background-color: transparent; opacity: .2;}
+#cboxNext2:hover{  opacity: 1;}
+
+#cboxLoadingOverlay{ display: none !important;}
+#cboxLoadingGraphic{background:url(/images/loading-small.gif) no-repeat center center;}
+
+#cboxCurrent{ left: 10px;}

@@ -1,0 +1,37 @@
+
+@font-face {
+    font-family: 'fa-icons';
+
+    src: url('../fonts/fa-icons.eot?yu23a4');
+    src: url('../fonts/fa-icons.eot?#iefixyu23a4') format('embedded-opentype'),
+          url('../fonts/fa-icons.ttf?yu23a4') format('truetype'),
+          url('../fonts/fa-icons.woff?yu23a4') format('woff'),
+          url('../fonts/fa-icons.svg?yu23a4#FaIcons') format('svg');
+
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.fa {font-family: 'fa-icons', 'FontAwesome'; font-weight: 100;}
+
+
+.fa-ratings-fa:before {content: "\e000";}
+.fa-reviews-fa:before {content: "\e001";}
+.fa-reviews-o-fa:before {content: "\e002";}
+.fa-friends-fa:before {content: "\e003";}
+.fa-friends-o-fa:before {content: "\e004";}
+.fa-filter-fa:before {content: "\e005";}
+.fa-soulmates-fa:before {content: "\e006";}
+.fa-awards-fa:before {content: "\e007";}
+.fa-oscar-fa:before {content: "\e008";}
+.fa-exp-title-fa:before {content: "\e009";}
+.fa-user-o-fa:before {content: "\e00a";}
+.fa-recommendations-o-fa:before {content: "\e00b";}
+.fa-recommendations-fa:before {content: "\e00c";}
+.fa-add-friends-o-fa:before {content: "\e00d";}
+.fa-simple-user-o-fa:before {content: "\e00e";}
+.fa-bookmark-o-fa:before {content: "\e00f";}
+.fa-bubble-alert-fa:before {content: "\e010";}
+.fa-ranking-lists-fa:before {content: "\e011";}
+.fa-top-fa:before {content: "\e012";}
